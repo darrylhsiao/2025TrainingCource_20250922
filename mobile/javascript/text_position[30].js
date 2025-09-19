@@ -1,0 +1,1 @@
+﻿positionForPages[30]={page:30,positions:[{word:"Bulk elemental composition: Normalized REEs",left:0.065156,top:0.081808,width:0.329974,height:0.018152},{word:"Bulk elemental composition: Normalized REEs",left:0.065156,top:0.567082,width:0.329974,height:0.018152}]};

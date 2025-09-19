@@ -1,0 +1,1 @@
+﻿positionForPages[9]={page:9,positions:[{word:"H area: Location and geology",left:0.065156,top:0.081808,width:0.209156,height:0.018152},{word:"Regional geological setting",left:0.065156,top:0.567082,width:0.194200,height:0.018152},{word:"(Chen et al., 2017)",left:0.776904,top:0.895047,width:0.099395,height:0.014979}]};
